@@ -25,4 +25,5 @@ Joshua Farin
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
 
+
 gif - file:///Users/kfar10/Desktop/FlashcardDemo.gif
